@@ -1,0 +1,20 @@
+
+body{
+    width: 900px;
+    height: 300px;
+    margin: auto;
+    background-color: white;
+    border: cadetblue;
+    font-family: cursive;
+}
+h1{
+    color: burlywood;
+    text-align: center;   
+}
+h2{
+    text-align: center;
+}
+form{
+    margin-top:50px;
+    width:100%;
+}
